@@ -85,16 +85,16 @@ function aplayer1 () {
         theme: '#F57F17',
         lrcType: 3,
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
             theme: '#ebd0c2'
         }, {
-            name: 'トリカゴ',
+            name: '飞越18层',
             artist: 'XX:me',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            url: 'https://www.on9.fun/mp3/18.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
             theme: '#46718b'
@@ -122,16 +122,16 @@ function aplayer0 () {
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.lrc',
             theme: '#505d6b'
         }, {
-            name: 'トリカゴ',
+            name: '飞越18层',
             artist: 'XX:me',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            url: 'https://www.on9.fun/mp3/18.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
             theme: '#46718b'
         }, {
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
             theme: '#ebd0c2'
@@ -143,9 +143,9 @@ function aplayer2 () {
     window.ap2 = new APlayer({
         container: document.getElementById('aplayer2'),
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             theme: '#ebd0c2'
         }]
@@ -166,16 +166,16 @@ function aplayer3 () {
         listMaxHeight: 90,
         lrcType: 3,
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
             theme: '#ebd0c2'
         }, {
-            name: 'トリカゴ',
+            name: '飞越18层',
             artist: 'XX:me',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            url: 'https://www.on9.fun/mp3/18.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
             theme: '#46718b'
@@ -195,9 +195,9 @@ function aplayer4 () {
         container: document.getElementById('aplayer4'),
         lrcType: 3,
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
             theme: '#ebd0c2'
@@ -210,16 +210,16 @@ function aplayer5 () {
         container: document.getElementById('aplayer5'),
         lrcType: 3,
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
             theme: '#ebd0c2'
         }, {
-            name: 'トリカゴ',
+            name: '飞越18层',
             artist: 'XX:me',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            url: 'https://www.on9.fun/mp3/18.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
             theme: '#46718b'
@@ -239,9 +239,9 @@ function aplayer6 () {
         container: document.getElementById('aplayer6'),
         mini: true,
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             theme: '#ebd0c2'
         }]
@@ -252,22 +252,22 @@ function aplayer7 () {
     window.ap7 = new APlayer({
         container: document.getElementById('aplayer7'),
         audio: [{
-            name: '光るなら(HLS)',
+            name: '中秋你注定一人(HLS)',
             artist: 'Goose house',
             url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hls/hikarunara.m3u8',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             theme: '#ebd0c2',
             type: 'hls'
         }, {
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             theme: '#ebd0c2'
         }, {
-            name: 'トリカゴ',
+            name: '飞越18层',
             artist: 'XX:me',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            url: 'https://www.on9.fun/mp3/18.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
             theme: '#46718b'
         }, {
@@ -285,14 +285,14 @@ function aplayer8 () {
         container: document.getElementById('aplayer8'),
         theme: '#e9e9e9',
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
         }, {
-            name: 'トリカゴ',
+            name: '飞越18层',
             artist: 'XX:me',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            url: 'https://www.on9.fun/mp3/18.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
         }, {
             name: '前前前世',
@@ -318,16 +318,16 @@ function aplayer9 () {
         fixed: true,
         lrcType: 3,
         audio: [{
-            name: '光るなら',
+            name: '中秋你注定一人',
             artist: 'Goose house',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            url: 'https://www.on9.fun/mp3/1.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
             theme: '#ebd0c2'
         }, {
-            name: 'トリカゴ',
+            name: '飞越18层',
             artist: 'XX:me',
-            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            url: 'https://www.on9.fun/mp3/18.mp3',
             cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
             lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
             theme: '#46718b'

@@ -1,0 +1,122 @@
+*,
+*:before,
+*:after {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+a img {
+    border: 0;
+}
+a {
+    text-decoration: none;
+}
+.view_box{
+    max-width: 640px;
+    margin:auto;
+    box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -o-box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -ms-box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -moz-box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -webkit-box-shadow: 0 0 6px rgba(0,0,0,.15);
+}
+.view_box .hd{
+    margin: .36rem .36rem .2rem;
+}
+.view_box .bd{
+    margin-top: 0;
+    font-size: .28rem;
+}
+.view_box .bd .table{
+    border:1px solid #d1d1d1;
+    border-radius: .1rem;
+}
+.tItem{
+    border-bottom: 1px solid #d1d1d1;
+    display: flex;
+    align-items: center;
+}
+.tItem:last-child{
+    border-bottom: 0;
+}
+.tItem-left{
+    min-width: 1.4rem;
+    padding:0 .1rem;
+}
+.tItem-right{
+    flex: 1;
+    padding:.1rem;
+    border-left: 1px solid #d1d1d1;
+    line-height: .32rem;
+}
+.table-time{
+    text-align: right;
+    color: #999;
+    font-size: .2rem;
+    font-weight: normal;
+    margin-top: .1rem;
+}
+.right-p{
+    margin-bottom: .1rem;
+}
+.right-p:last-child{
+    margin-bottom: 0;
+}
+.JrightP{
+    display: inline-block;
+    margin-left: .1rem;
+}
+.nameShow{
+    margin-top: .1rem;
+    font-weight: normal;
+    font-size: .2rem;
+    display: none;
+}
+.nameShow.nowShow{
+    display: block;
+}
+.view_box .bd .nameShow .table{
+    background: #f0eff4;
+    border:0;
+}
+.nameShow .table .tItem{
+    border-bottom: 1px solid #fff;
+}
+.nameShow .table .tItem .tItem-right{
+    border-left: 1px solid #fff;
+}
+.nameShow .table .tItem .tItem-left{
+    min-width: .5rem;
+}
+.view_box .bd .pic{
+    margin-top: .2rem;
+    text-align: center;
+}
+.view_box .bd .pic {
+    box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -o-box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -ms-box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -moz-box-shadow: 0 0 6px rgba(0,0,0,.15);
+    -webkit-box-shadow: 0 0 6px rgba(0,0,0,.15);
+    margin-bottom: .1rem;
+    border-radius: .1rem;
+    border: 5px solid #ffffff;
+    width: 96%;
+    line-height: 1;
+}
+.item_detail{
+    padding:.1rem 0 ;
+}
+.item{
+    padding:.1rem 0 ;
+    border-bottom: 1px dashed #d1d1d1;
+}
+.detail{
+    margin-top: .2rem; 
+}
